@@ -1,0 +1,39 @@
+CRUD COMPLETO
+
+CREATE
+
+db.clientes.insertOne({
+  nombre: "Pedro",
+  apellido: "Ramos",
+  telefono: "7999-0000",
+  direccion: "San Salvador",
+  cantidad_libros_leidos: 8,
+  estado_civil: "Soltero"
+})
+
+READ
+
+db.clientes.find()
+
+db.clientes.find({ estado_civil: "Soltero" })
+
+db.clientes.find({ cantidad_libros_leidos: { $gt: 5 } })
+
+UPDATE
+
+db.clientes.updateOne(
+  { nombre: "Ana" },
+  { $set: { telefono: "7111-1111" } }
+)
+
+db.clientes.updateMany(
+  { estado_civil: "Soltero" },
+  { $set: { estado_civil: "En relación" } }
+)
+
+
+DELETE
+
+db.clientes.deleteOne({ nombre: "Luis" })
+
+db.clientes.deleteMany({ cantidad_libros_leidos: { $lt: 3 } })

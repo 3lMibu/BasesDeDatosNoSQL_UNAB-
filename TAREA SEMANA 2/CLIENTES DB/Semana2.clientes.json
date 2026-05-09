@@ -1,0 +1,2299 @@
+[{
+  "_id": {
+    "$oid": "69f95ba321eadead87884f94"
+  },
+  "nombre": "Ana",
+  "apellido": "Lopez",
+  "telefono": "7654-3210",
+  "direccion": "Santa Ana, Barrio San Miguelito",
+  "cantidad_libros_leidos": 5,
+  "estado_civil": "Casada"
+},
+{
+  "_id": {
+    "$oid": "69f95ba321eadead87884f95"
+  },
+  "nombre": "Luis",
+  "apellido": "Hernandez",
+  "telefono": "7001-2233",
+  "direccion": "Sonsonate, Centro",
+  "cantidad_libros_leidos": 12,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f95ba321eadead87884f96"
+  },
+  "nombre": "María",
+  "apellido": "Gomez",
+  "telefono": "7123-4567",
+  "direccion": "La Libertad, Puerto de La Libertad",
+  "cantidad_libros_leidos": 3,
+  "estado_civil": "Viuda"
+},
+{
+  "_id": {
+    "$oid": "69f95d1121eadead87884f97"
+  },
+  "nombre": "Cosme",
+  "apellido": "Fulanito",
+  "telefono": "7654-6666",
+  "direccion": "Sonsonate, Barrio Veracruz",
+  "cantidad_libros_leidos": 9,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f95d1121eadead87884f98"
+  },
+  "nombre": "Mario",
+  "apellido": "Moreno",
+  "telefono": "7001-3345",
+  "direccion": "Sonzacate, El Sauce",
+  "cantidad_libros_leidos": 10,
+  "estado_civil": "Soltro"
+},
+{
+  "_id": {
+    "$oid": "69f95d1121eadead87884f99"
+  },
+  "nombre": "Juana",
+  "apellido": "Velez",
+  "telefono": "7123-6789",
+  "direccion": "Ahuachapan, centro",
+  "cantidad_libros_leidos": 7,
+  "estado_civil": "Viuda"
+},
+{
+  "_id": {
+    "$oid": "69f96044bae6f6169b26e2d1"
+  },
+  "nombre": "Paco",
+  "apellido": "Juares",
+  "telefono": "7654-2345",
+  "direccion": "Santa Ana, Altos del palmar",
+  "cantidad_libros_leidos": 4,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f96044bae6f6169b26e2d2"
+  },
+  "nombre": "Manolo",
+  "apellido": "Obrajuela",
+  "telefono": "7001-2221",
+  "direccion": "Sonzacate, La ponderosa",
+  "cantidad_libros_leidos": 7,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f96044bae6f6169b26e2d3"
+  },
+  "nombre": "Mariela",
+  "apellido": "Castillo",
+  "telefono": "7123-3345",
+  "direccion": "Sonsonate, Juayua",
+  "cantidad_libros_leidos": 5,
+  "estado_civil": "Soltera"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06a1"
+  },
+  "nombre": "Raúl",
+  "apellido": "Navarro",
+  "telefono": "7473-9016",
+  "direccion": "Morazán, Centro",
+  "cantidad_libros_leidos": 8,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06a2"
+  },
+  "nombre": "Daniel",
+  "apellido": "Mejía",
+  "telefono": "7011-7227",
+  "direccion": "San Salvador, Centro",
+  "cantidad_libros_leidos": 4,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06a3"
+  },
+  "nombre": "Ana",
+  "apellido": "Navarro",
+  "telefono": "7378-5917",
+  "direccion": "Ahuachapán, Centro",
+  "cantidad_libros_leidos": 12,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06a4"
+  },
+  "nombre": "Sofía",
+  "apellido": "Castillo",
+  "telefono": "7988-1663",
+  "direccion": "La Libertad, Puerto de La Libertad",
+  "cantidad_libros_leidos": 6,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06a5"
+  },
+  "nombre": "Natalia",
+  "apellido": "Figueroa",
+  "telefono": "7114-2835",
+  "direccion": "Usulután, Centro",
+  "cantidad_libros_leidos": 15,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06a6"
+  },
+  "nombre": "Héctor",
+  "apellido": "Delgado",
+  "telefono": "7351-4880",
+  "direccion": "Ahuachapán, Centro",
+  "cantidad_libros_leidos": 13,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06a7"
+  },
+  "nombre": "Diego",
+  "apellido": "Ramírez",
+  "telefono": "7462-5450",
+  "direccion": "Chalatenango, Centro",
+  "cantidad_libros_leidos": 3,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06a8"
+  },
+  "nombre": "Jorge",
+  "apellido": "Herrera",
+  "telefono": "7890-5219",
+  "direccion": "San Vicente, Centro",
+  "cantidad_libros_leidos": 13,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06a9"
+  },
+  "nombre": "Natalia",
+  "apellido": "Ortega",
+  "telefono": "7789-7449",
+  "direccion": "La Libertad, Puerto de La Libertad",
+  "cantidad_libros_leidos": 14,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06aa"
+  },
+  "nombre": "Daniela",
+  "apellido": "Reyes",
+  "telefono": "7033-1282",
+  "direccion": "San Miguel, Centro",
+  "cantidad_libros_leidos": 13,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06ab"
+  },
+  "nombre": "Diego",
+  "apellido": "López",
+  "telefono": "7818-4948",
+  "direccion": "La Unión, Centro",
+  "cantidad_libros_leidos": 18,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06ac"
+  },
+  "nombre": "Ana",
+  "apellido": "Castillo",
+  "telefono": "7340-3222",
+  "direccion": "San Vicente, Centro",
+  "cantidad_libros_leidos": 1,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06ad"
+  },
+  "nombre": "Pedro",
+  "apellido": "Torres",
+  "telefono": "7768-8751",
+  "direccion": "Chalatenango, Centro",
+  "cantidad_libros_leidos": 1,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06ae"
+  },
+  "nombre": "Patricia",
+  "apellido": "Vega",
+  "telefono": "7183-3009",
+  "direccion": "Santa Ana, Centro",
+  "cantidad_libros_leidos": 17,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06af"
+  },
+  "nombre": "Miguel",
+  "apellido": "Pineda",
+  "telefono": "7901-2401",
+  "direccion": "Ahuachapán, Centro",
+  "cantidad_libros_leidos": 14,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06b0"
+  },
+  "nombre": "María",
+  "apellido": "Hernández",
+  "telefono": "7039-1921",
+  "direccion": "Morazán, Centro",
+  "cantidad_libros_leidos": 10,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06b1"
+  },
+  "nombre": "José",
+  "apellido": "Guerrero",
+  "telefono": "7564-8230",
+  "direccion": "Cuscatlán, Centro",
+  "cantidad_libros_leidos": 4,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06b2"
+  },
+  "nombre": "Gabriela",
+  "apellido": "Ortega",
+  "telefono": "7505-1009",
+  "direccion": "San Salvador, Centro",
+  "cantidad_libros_leidos": 7,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06b3"
+  },
+  "nombre": "Miguel",
+  "apellido": "Martínez",
+  "telefono": "7570-4067",
+  "direccion": "Cabañas, Centro",
+  "cantidad_libros_leidos": 11,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06b4"
+  },
+  "nombre": "María",
+  "apellido": "Silva",
+  "telefono": "7593-2465",
+  "direccion": "La Unión, Centro",
+  "cantidad_libros_leidos": 10,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06b5"
+  },
+  "nombre": "Héctor",
+  "apellido": "Gómez",
+  "telefono": "7041-2723",
+  "direccion": "Morazán, Centro",
+  "cantidad_libros_leidos": 9,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06b6"
+  },
+  "nombre": "Miguel",
+  "apellido": "Salazar",
+  "telefono": "7635-3973",
+  "direccion": "La Libertad, Puerto de La Libertad",
+  "cantidad_libros_leidos": 20,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06b7"
+  },
+  "nombre": "Ana",
+  "apellido": "López",
+  "telefono": "7631-7041",
+  "direccion": "Chalatenango, Centro",
+  "cantidad_libros_leidos": 14,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06b8"
+  },
+  "nombre": "Camila",
+  "apellido": "Morales",
+  "telefono": "7012-3362",
+  "direccion": "Usulután, Centro",
+  "cantidad_libros_leidos": 0,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06b9"
+  },
+  "nombre": "Eduardo",
+  "apellido": "Ramírez",
+  "telefono": "7867-7093",
+  "direccion": "Santa Ana, Centro",
+  "cantidad_libros_leidos": 16,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06ba"
+  },
+  "nombre": "Gabriela",
+  "apellido": "Guerrero",
+  "telefono": "7972-7773",
+  "direccion": "Morazán, Centro",
+  "cantidad_libros_leidos": 5,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06bb"
+  },
+  "nombre": "Miguel",
+  "apellido": "Reyes",
+  "telefono": "7807-7509",
+  "direccion": "San Salvador, Centro",
+  "cantidad_libros_leidos": 10,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06bc"
+  },
+  "nombre": "Daniela",
+  "apellido": "Hernández",
+  "telefono": "7164-9500",
+  "direccion": "Chalatenango, Centro",
+  "cantidad_libros_leidos": 6,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06bd"
+  },
+  "nombre": "Ricardo",
+  "apellido": "Campos",
+  "telefono": "7219-2229",
+  "direccion": "San Vicente, Centro",
+  "cantidad_libros_leidos": 16,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06be"
+  },
+  "nombre": "Mariana",
+  "apellido": "Rivas",
+  "telefono": "7567-7886",
+  "direccion": "Santa Ana, Centro",
+  "cantidad_libros_leidos": 20,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06bf"
+  },
+  "nombre": "María",
+  "apellido": "Vargas",
+  "telefono": "7187-9673",
+  "direccion": "La Unión, Centro",
+  "cantidad_libros_leidos": 13,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06c0"
+  },
+  "nombre": "Daniel",
+  "apellido": "Torres",
+  "telefono": "7422-1198",
+  "direccion": "Sonsonate, Centro",
+  "cantidad_libros_leidos": 10,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06c1"
+  },
+  "nombre": "María",
+  "apellido": "Campos",
+  "telefono": "7729-9382",
+  "direccion": "San Miguel, Centro",
+  "cantidad_libros_leidos": 2,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06c2"
+  },
+  "nombre": "Ricardo",
+  "apellido": "Martínez",
+  "telefono": "7704-8288",
+  "direccion": "San Salvador, Centro",
+  "cantidad_libros_leidos": 20,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06c3"
+  },
+  "nombre": "Natalia",
+  "apellido": "Torres",
+  "telefono": "7150-2953",
+  "direccion": "La Libertad, Puerto de La Libertad",
+  "cantidad_libros_leidos": 3,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06c4"
+  },
+  "nombre": "Fernando",
+  "apellido": "Guerrero",
+  "telefono": "7363-6510",
+  "direccion": "Usulután, Centro",
+  "cantidad_libros_leidos": 14,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06c5"
+  },
+  "nombre": "Patricia",
+  "apellido": "Silva",
+  "telefono": "7073-1568",
+  "direccion": "Ahuachapán, Centro",
+  "cantidad_libros_leidos": 19,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06c6"
+  },
+  "nombre": "Patricia",
+  "apellido": "Vargas",
+  "telefono": "7088-7832",
+  "direccion": "Chalatenango, Centro",
+  "cantidad_libros_leidos": 13,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06c7"
+  },
+  "nombre": "Gabriela",
+  "apellido": "Herrera",
+  "telefono": "7951-8428",
+  "direccion": "La Libertad, Puerto de La Libertad",
+  "cantidad_libros_leidos": 11,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06c8"
+  },
+  "nombre": "Carlos",
+  "apellido": "Guerrero",
+  "telefono": "7210-7223",
+  "direccion": "San Vicente, Centro",
+  "cantidad_libros_leidos": 18,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06c9"
+  },
+  "nombre": "Pedro",
+  "apellido": "Aguilar",
+  "telefono": "7007-4253",
+  "direccion": "Usulután, Centro",
+  "cantidad_libros_leidos": 16,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06ca"
+  },
+  "nombre": "José",
+  "apellido": "Herrera",
+  "telefono": "7417-6003",
+  "direccion": "San Vicente, Centro",
+  "cantidad_libros_leidos": 18,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06cb"
+  },
+  "nombre": "Claudia",
+  "apellido": "Castro",
+  "telefono": "7756-8988",
+  "direccion": "Cabañas, Centro",
+  "cantidad_libros_leidos": 0,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06cc"
+  },
+  "nombre": "Ricardo",
+  "apellido": "Ramos",
+  "telefono": "7236-8969",
+  "direccion": "San Salvador, Centro",
+  "cantidad_libros_leidos": 8,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06cd"
+  },
+  "nombre": "Claudia",
+  "apellido": "Ramos",
+  "telefono": "7714-5244",
+  "direccion": "Sonsonate, Centro",
+  "cantidad_libros_leidos": 4,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06ce"
+  },
+  "nombre": "Daniela",
+  "apellido": "Ramos",
+  "telefono": "7223-7141",
+  "direccion": "Sonsonate, Centro",
+  "cantidad_libros_leidos": 14,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06cf"
+  },
+  "nombre": "Pedro",
+  "apellido": "Herrera",
+  "telefono": "7485-1992",
+  "direccion": "Ahuachapán, Centro",
+  "cantidad_libros_leidos": 19,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06d0"
+  },
+  "nombre": "Raúl",
+  "apellido": "Flores",
+  "telefono": "7628-8172",
+  "direccion": "La Unión, Centro",
+  "cantidad_libros_leidos": 9,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06d1"
+  },
+  "nombre": "Natalia",
+  "apellido": "Cruz",
+  "telefono": "7238-5831",
+  "direccion": "Chalatenango, Centro",
+  "cantidad_libros_leidos": 13,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06d2"
+  },
+  "nombre": "Laura",
+  "apellido": "Méndez",
+  "telefono": "7353-3267",
+  "direccion": "San Salvador, Centro",
+  "cantidad_libros_leidos": 8,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06d3"
+  },
+  "nombre": "Sofía",
+  "apellido": "Campos",
+  "telefono": "7086-4828",
+  "direccion": "Santa Ana, Centro",
+  "cantidad_libros_leidos": 8,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06d4"
+  },
+  "nombre": "Héctor",
+  "apellido": "Rivas",
+  "telefono": "7269-4027",
+  "direccion": "Cuscatlán, Centro",
+  "cantidad_libros_leidos": 19,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06d5"
+  },
+  "nombre": "Laura",
+  "apellido": "Gómez",
+  "telefono": "7360-9023",
+  "direccion": "Cuscatlán, Centro",
+  "cantidad_libros_leidos": 6,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06d6"
+  },
+  "nombre": "Daniel",
+  "apellido": "Delgado",
+  "telefono": "7224-4128",
+  "direccion": "Cabañas, Centro",
+  "cantidad_libros_leidos": 20,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06d7"
+  },
+  "nombre": "Diego",
+  "apellido": "Herrera",
+  "telefono": "7111-8507",
+  "direccion": "San Miguel, Centro",
+  "cantidad_libros_leidos": 11,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06d8"
+  },
+  "nombre": "Natalia",
+  "apellido": "Reyes",
+  "telefono": "7422-8039",
+  "direccion": "San Miguel, Centro",
+  "cantidad_libros_leidos": 12,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06d9"
+  },
+  "nombre": "Luis",
+  "apellido": "López",
+  "telefono": "7076-2151",
+  "direccion": "Cabañas, Centro",
+  "cantidad_libros_leidos": 3,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06da"
+  },
+  "nombre": "Héctor",
+  "apellido": "Méndez",
+  "telefono": "7199-4774",
+  "direccion": "Santa Ana, Centro",
+  "cantidad_libros_leidos": 7,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06db"
+  },
+  "nombre": "Andrea",
+  "apellido": "Cruz",
+  "telefono": "7749-9946",
+  "direccion": "Sonsonate, Centro",
+  "cantidad_libros_leidos": 7,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06dc"
+  },
+  "nombre": "Miguel",
+  "apellido": "Vargas",
+  "telefono": "7259-5783",
+  "direccion": "Cuscatlán, Centro",
+  "cantidad_libros_leidos": 9,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06dd"
+  },
+  "nombre": "Gabriela",
+  "apellido": "Cruz",
+  "telefono": "7300-1954",
+  "direccion": "Usulután, Centro",
+  "cantidad_libros_leidos": 17,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06de"
+  },
+  "nombre": "Miguel",
+  "apellido": "Silva",
+  "telefono": "7737-7160",
+  "direccion": "Cuscatlán, Centro",
+  "cantidad_libros_leidos": 7,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06df"
+  },
+  "nombre": "Víctor",
+  "apellido": "Ortega",
+  "telefono": "7814-1833",
+  "direccion": "La Libertad, Puerto de La Libertad",
+  "cantidad_libros_leidos": 3,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06e0"
+  },
+  "nombre": "Laura",
+  "apellido": "Martínez",
+  "telefono": "7170-9600",
+  "direccion": "Ahuachapán, Centro",
+  "cantidad_libros_leidos": 9,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06e1"
+  },
+  "nombre": "Miguel",
+  "apellido": "Silva",
+  "telefono": "7453-3226",
+  "direccion": "San Vicente, Centro",
+  "cantidad_libros_leidos": 12,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06e2"
+  },
+  "nombre": "Patricia",
+  "apellido": "Reyes",
+  "telefono": "7480-5397",
+  "direccion": "La Unión, Centro",
+  "cantidad_libros_leidos": 0,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06e3"
+  },
+  "nombre": "Pedro",
+  "apellido": "Ortega",
+  "telefono": "7009-6410",
+  "direccion": "Chalatenango, Centro",
+  "cantidad_libros_leidos": 13,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06e4"
+  },
+  "nombre": "Elena",
+  "apellido": "Vargas",
+  "telefono": "7752-4913",
+  "direccion": "La Unión, Centro",
+  "cantidad_libros_leidos": 1,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06e5"
+  },
+  "nombre": "Claudia",
+  "apellido": "Pineda",
+  "telefono": "7865-8512",
+  "direccion": "Chalatenango, Centro",
+  "cantidad_libros_leidos": 18,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06e6"
+  },
+  "nombre": "Gabriela",
+  "apellido": "Méndez",
+  "telefono": "7963-9223",
+  "direccion": "San Miguel, Centro",
+  "cantidad_libros_leidos": 16,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06e7"
+  },
+  "nombre": "Eduardo",
+  "apellido": "Castro",
+  "telefono": "7263-8641",
+  "direccion": "Sonsonate, Centro",
+  "cantidad_libros_leidos": 16,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06e8"
+  },
+  "nombre": "María",
+  "apellido": "Mejía",
+  "telefono": "7313-5408",
+  "direccion": "San Vicente, Centro",
+  "cantidad_libros_leidos": 19,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06e9"
+  },
+  "nombre": "Valeria",
+  "apellido": "Salazar",
+  "telefono": "7723-4140",
+  "direccion": "Santa Ana, Centro",
+  "cantidad_libros_leidos": 5,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06ea"
+  },
+  "nombre": "José",
+  "apellido": "López",
+  "telefono": "7923-8415",
+  "direccion": "Cuscatlán, Centro",
+  "cantidad_libros_leidos": 15,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06eb"
+  },
+  "nombre": "Patricia",
+  "apellido": "Morales",
+  "telefono": "7939-6865",
+  "direccion": "Chalatenango, Centro",
+  "cantidad_libros_leidos": 20,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06ec"
+  },
+  "nombre": "Pedro",
+  "apellido": "López",
+  "telefono": "7053-4001",
+  "direccion": "Santa Ana, Centro",
+  "cantidad_libros_leidos": 3,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06ed"
+  },
+  "nombre": "Laura",
+  "apellido": "Vega",
+  "telefono": "7062-6185",
+  "direccion": "Sonsonate, Centro",
+  "cantidad_libros_leidos": 15,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06ee"
+  },
+  "nombre": "Pedro",
+  "apellido": "Ramírez",
+  "telefono": "7334-9384",
+  "direccion": "San Miguel, Centro",
+  "cantidad_libros_leidos": 0,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06ef"
+  },
+  "nombre": "Daniela",
+  "apellido": "Pineda",
+  "telefono": "7679-3839",
+  "direccion": "Santa Ana, Centro",
+  "cantidad_libros_leidos": 12,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06f0"
+  },
+  "nombre": "Carlos",
+  "apellido": "Aguilar",
+  "telefono": "7332-9499",
+  "direccion": "La Unión, Centro",
+  "cantidad_libros_leidos": 0,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06f1"
+  },
+  "nombre": "Fernando",
+  "apellido": "Navarro",
+  "telefono": "7202-1093",
+  "direccion": "Morazán, Centro",
+  "cantidad_libros_leidos": 15,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06f2"
+  },
+  "nombre": "Jorge",
+  "apellido": "Méndez",
+  "telefono": "7256-7616",
+  "direccion": "Chalatenango, Centro",
+  "cantidad_libros_leidos": 6,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06f3"
+  },
+  "nombre": "Víctor",
+  "apellido": "Herrera",
+  "telefono": "7489-8637",
+  "direccion": "San Vicente, Centro",
+  "cantidad_libros_leidos": 3,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06f4"
+  },
+  "nombre": "Camila",
+  "apellido": "Rivas",
+  "telefono": "7304-1649",
+  "direccion": "San Vicente, Centro",
+  "cantidad_libros_leidos": 11,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06f5"
+  },
+  "nombre": "Luis",
+  "apellido": "Figueroa",
+  "telefono": "7892-6790",
+  "direccion": "Cuscatlán, Centro",
+  "cantidad_libros_leidos": 7,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06f6"
+  },
+  "nombre": "Ana",
+  "apellido": "Figueroa",
+  "telefono": "7619-4789",
+  "direccion": "Usulután, Centro",
+  "cantidad_libros_leidos": 15,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06f7"
+  },
+  "nombre": "Héctor",
+  "apellido": "Vega",
+  "telefono": "7465-4287",
+  "direccion": "San Vicente, Centro",
+  "cantidad_libros_leidos": 18,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06f8"
+  },
+  "nombre": "Víctor",
+  "apellido": "López",
+  "telefono": "7704-1382",
+  "direccion": "Chalatenango, Centro",
+  "cantidad_libros_leidos": 7,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06f9"
+  },
+  "nombre": "Ana",
+  "apellido": "Rivas",
+  "telefono": "7993-6001",
+  "direccion": "Usulután, Centro",
+  "cantidad_libros_leidos": 3,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06fa"
+  },
+  "nombre": "Pedro",
+  "apellido": "Ramírez",
+  "telefono": "7088-3339",
+  "direccion": "San Vicente, Centro",
+  "cantidad_libros_leidos": 7,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06fb"
+  },
+  "nombre": "Héctor",
+  "apellido": "Martínez",
+  "telefono": "7437-3579",
+  "direccion": "Cabañas, Centro",
+  "cantidad_libros_leidos": 10,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06fc"
+  },
+  "nombre": "Valeria",
+  "apellido": "Santos",
+  "telefono": "7827-8963",
+  "direccion": "Ahuachapán, Centro",
+  "cantidad_libros_leidos": 10,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06fd"
+  },
+  "nombre": "Mariana",
+  "apellido": "Figueroa",
+  "telefono": "7659-8043",
+  "direccion": "La Unión, Centro",
+  "cantidad_libros_leidos": 9,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06fe"
+  },
+  "nombre": "Diego",
+  "apellido": "Aguilar",
+  "telefono": "7913-3693",
+  "direccion": "Chalatenango, Centro",
+  "cantidad_libros_leidos": 10,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d06ff"
+  },
+  "nombre": "Laura",
+  "apellido": "Silva",
+  "telefono": "7903-8233",
+  "direccion": "Cuscatlán, Centro",
+  "cantidad_libros_leidos": 6,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0700"
+  },
+  "nombre": "Ana",
+  "apellido": "Campos",
+  "telefono": "7324-1031",
+  "direccion": "Usulután, Centro",
+  "cantidad_libros_leidos": 9,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0701"
+  },
+  "nombre": "Daniela",
+  "apellido": "Méndez",
+  "telefono": "7165-2541",
+  "direccion": "San Miguel, Centro",
+  "cantidad_libros_leidos": 2,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0702"
+  },
+  "nombre": "Ricardo",
+  "apellido": "Mejía",
+  "telefono": "7507-7745",
+  "direccion": "La Libertad, Puerto de La Libertad",
+  "cantidad_libros_leidos": 2,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0703"
+  },
+  "nombre": "Lucía",
+  "apellido": "López",
+  "telefono": "7012-5645",
+  "direccion": "Santa Ana, Centro",
+  "cantidad_libros_leidos": 11,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0704"
+  },
+  "nombre": "José",
+  "apellido": "Guerrero",
+  "telefono": "7678-4422",
+  "direccion": "La Libertad, Puerto de La Libertad",
+  "cantidad_libros_leidos": 9,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0705"
+  },
+  "nombre": "Claudia",
+  "apellido": "López",
+  "telefono": "7623-9261",
+  "direccion": "San Salvador, Centro",
+  "cantidad_libros_leidos": 5,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0706"
+  },
+  "nombre": "Andrea",
+  "apellido": "Ramírez",
+  "telefono": "7451-7989",
+  "direccion": "Sonsonate, Centro",
+  "cantidad_libros_leidos": 19,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0707"
+  },
+  "nombre": "Gabriela",
+  "apellido": "Cruz",
+  "telefono": "7278-2978",
+  "direccion": "San Salvador, Centro",
+  "cantidad_libros_leidos": 19,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0708"
+  },
+  "nombre": "Paola",
+  "apellido": "Figueroa",
+  "telefono": "7205-2826",
+  "direccion": "Sonsonate, Centro",
+  "cantidad_libros_leidos": 11,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0709"
+  },
+  "nombre": "Andrea",
+  "apellido": "Flores",
+  "telefono": "7331-4508",
+  "direccion": "Sonsonate, Centro",
+  "cantidad_libros_leidos": 15,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d070a"
+  },
+  "nombre": "Miguel",
+  "apellido": "Delgado",
+  "telefono": "7798-6147",
+  "direccion": "Ahuachapán, Centro",
+  "cantidad_libros_leidos": 0,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d070b"
+  },
+  "nombre": "Pedro",
+  "apellido": "Martínez",
+  "telefono": "7936-9572",
+  "direccion": "Chalatenango, Centro",
+  "cantidad_libros_leidos": 8,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d070c"
+  },
+  "nombre": "Mariana",
+  "apellido": "Pineda",
+  "telefono": "7983-2748",
+  "direccion": "Cuscatlán, Centro",
+  "cantidad_libros_leidos": 10,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d070d"
+  },
+  "nombre": "Pedro",
+  "apellido": "Herrera",
+  "telefono": "7222-4079",
+  "direccion": "Cabañas, Centro",
+  "cantidad_libros_leidos": 10,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d070e"
+  },
+  "nombre": "Valeria",
+  "apellido": "Vargas",
+  "telefono": "7116-3368",
+  "direccion": "Santa Ana, Centro",
+  "cantidad_libros_leidos": 2,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d070f"
+  },
+  "nombre": "Óscar",
+  "apellido": "Santos",
+  "telefono": "7898-1559",
+  "direccion": "San Miguel, Centro",
+  "cantidad_libros_leidos": 16,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0710"
+  },
+  "nombre": "Camila",
+  "apellido": "Navarro",
+  "telefono": "7456-5128",
+  "direccion": "Usulután, Centro",
+  "cantidad_libros_leidos": 18,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0711"
+  },
+  "nombre": "Claudia",
+  "apellido": "Campos",
+  "telefono": "7453-9447",
+  "direccion": "San Miguel, Centro",
+  "cantidad_libros_leidos": 11,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0712"
+  },
+  "nombre": "Elena",
+  "apellido": "Herrera",
+  "telefono": "7561-6028",
+  "direccion": "San Vicente, Centro",
+  "cantidad_libros_leidos": 9,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0713"
+  },
+  "nombre": "Raúl",
+  "apellido": "Morales",
+  "telefono": "7847-5841",
+  "direccion": "Chalatenango, Centro",
+  "cantidad_libros_leidos": 14,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0714"
+  },
+  "nombre": "Pedro",
+  "apellido": "Martínez",
+  "telefono": "7899-8121",
+  "direccion": "San Vicente, Centro",
+  "cantidad_libros_leidos": 13,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0715"
+  },
+  "nombre": "Óscar",
+  "apellido": "Aguilar",
+  "telefono": "7816-8750",
+  "direccion": "Sonsonate, Centro",
+  "cantidad_libros_leidos": 9,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0716"
+  },
+  "nombre": "Paola",
+  "apellido": "Santos",
+  "telefono": "7266-8860",
+  "direccion": "Cabañas, Centro",
+  "cantidad_libros_leidos": 13,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0717"
+  },
+  "nombre": "Ricardo",
+  "apellido": "Morales",
+  "telefono": "7043-2443",
+  "direccion": "Morazán, Centro",
+  "cantidad_libros_leidos": 6,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0718"
+  },
+  "nombre": "María",
+  "apellido": "Hernández",
+  "telefono": "7939-9100",
+  "direccion": "Cuscatlán, Centro",
+  "cantidad_libros_leidos": 7,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0719"
+  },
+  "nombre": "Camila",
+  "apellido": "Herrera",
+  "telefono": "7330-5754",
+  "direccion": "San Vicente, Centro",
+  "cantidad_libros_leidos": 16,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d071a"
+  },
+  "nombre": "Daniela",
+  "apellido": "Castro",
+  "telefono": "7257-2173",
+  "direccion": "San Vicente, Centro",
+  "cantidad_libros_leidos": 16,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d071b"
+  },
+  "nombre": "Laura",
+  "apellido": "Salazar",
+  "telefono": "7744-2968",
+  "direccion": "San Miguel, Centro",
+  "cantidad_libros_leidos": 18,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d071c"
+  },
+  "nombre": "Natalia",
+  "apellido": "Gómez",
+  "telefono": "7314-7755",
+  "direccion": "La Unión, Centro",
+  "cantidad_libros_leidos": 12,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d071d"
+  },
+  "nombre": "Ricardo",
+  "apellido": "López",
+  "telefono": "7855-2615",
+  "direccion": "San Salvador, Centro",
+  "cantidad_libros_leidos": 19,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d071e"
+  },
+  "nombre": "Miguel",
+  "apellido": "Pineda",
+  "telefono": "7924-5513",
+  "direccion": "Santa Ana, Centro",
+  "cantidad_libros_leidos": 15,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d071f"
+  },
+  "nombre": "Gabriela",
+  "apellido": "Santos",
+  "telefono": "7588-6738",
+  "direccion": "Chalatenango, Centro",
+  "cantidad_libros_leidos": 15,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0720"
+  },
+  "nombre": "Óscar",
+  "apellido": "Guerrero",
+  "telefono": "7920-5711",
+  "direccion": "Ahuachapán, Centro",
+  "cantidad_libros_leidos": 4,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0721"
+  },
+  "nombre": "Camila",
+  "apellido": "Delgado",
+  "telefono": "7053-1884",
+  "direccion": "Cabañas, Centro",
+  "cantidad_libros_leidos": 10,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0722"
+  },
+  "nombre": "Fernando",
+  "apellido": "Ortega",
+  "telefono": "7310-6676",
+  "direccion": "Cabañas, Centro",
+  "cantidad_libros_leidos": 18,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0723"
+  },
+  "nombre": "Andrea",
+  "apellido": "Delgado",
+  "telefono": "7526-1548",
+  "direccion": "Cabañas, Centro",
+  "cantidad_libros_leidos": 5,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0724"
+  },
+  "nombre": "Lucía",
+  "apellido": "Pineda",
+  "telefono": "7025-8674",
+  "direccion": "San Salvador, Centro",
+  "cantidad_libros_leidos": 0,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0725"
+  },
+  "nombre": "Pedro",
+  "apellido": "Herrera",
+  "telefono": "7884-7069",
+  "direccion": "San Miguel, Centro",
+  "cantidad_libros_leidos": 6,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0726"
+  },
+  "nombre": "Natalia",
+  "apellido": "Hernández",
+  "telefono": "7050-3679",
+  "direccion": "Usulután, Centro",
+  "cantidad_libros_leidos": 9,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0727"
+  },
+  "nombre": "Daniel",
+  "apellido": "Silva",
+  "telefono": "7161-1007",
+  "direccion": "Santa Ana, Centro",
+  "cantidad_libros_leidos": 20,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0728"
+  },
+  "nombre": "Carlos",
+  "apellido": "Rivas",
+  "telefono": "7185-3802",
+  "direccion": "San Vicente, Centro",
+  "cantidad_libros_leidos": 5,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0729"
+  },
+  "nombre": "Jorge",
+  "apellido": "Castillo",
+  "telefono": "7115-3692",
+  "direccion": "La Unión, Centro",
+  "cantidad_libros_leidos": 19,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d072a"
+  },
+  "nombre": "Óscar",
+  "apellido": "Pineda",
+  "telefono": "7037-2477",
+  "direccion": "San Miguel, Centro",
+  "cantidad_libros_leidos": 0,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d072b"
+  },
+  "nombre": "Andrea",
+  "apellido": "Gómez",
+  "telefono": "7799-1496",
+  "direccion": "Cabañas, Centro",
+  "cantidad_libros_leidos": 3,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d072c"
+  },
+  "nombre": "Valeria",
+  "apellido": "Navarro",
+  "telefono": "7145-5382",
+  "direccion": "La Libertad, Puerto de La Libertad",
+  "cantidad_libros_leidos": 18,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d072d"
+  },
+  "nombre": "María",
+  "apellido": "Martínez",
+  "telefono": "7724-6976",
+  "direccion": "La Unión, Centro",
+  "cantidad_libros_leidos": 20,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d072e"
+  },
+  "nombre": "Daniel",
+  "apellido": "Vargas",
+  "telefono": "7052-8499",
+  "direccion": "San Miguel, Centro",
+  "cantidad_libros_leidos": 2,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d072f"
+  },
+  "nombre": "Óscar",
+  "apellido": "Mejía",
+  "telefono": "7109-6408",
+  "direccion": "La Libertad, Puerto de La Libertad",
+  "cantidad_libros_leidos": 4,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0730"
+  },
+  "nombre": "Óscar",
+  "apellido": "Mejía",
+  "telefono": "7147-4182",
+  "direccion": "Santa Ana, Centro",
+  "cantidad_libros_leidos": 17,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0731"
+  },
+  "nombre": "Mariana",
+  "apellido": "López",
+  "telefono": "7181-8467",
+  "direccion": "San Vicente, Centro",
+  "cantidad_libros_leidos": 20,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0732"
+  },
+  "nombre": "Daniel",
+  "apellido": "Silva",
+  "telefono": "7819-7563",
+  "direccion": "Cuscatlán, Centro",
+  "cantidad_libros_leidos": 5,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0733"
+  },
+  "nombre": "José",
+  "apellido": "Mejía",
+  "telefono": "7089-4784",
+  "direccion": "Sonsonate, Centro",
+  "cantidad_libros_leidos": 18,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0734"
+  },
+  "nombre": "Patricia",
+  "apellido": "Mejía",
+  "telefono": "7730-2791",
+  "direccion": "Cabañas, Centro",
+  "cantidad_libros_leidos": 9,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0735"
+  },
+  "nombre": "Raúl",
+  "apellido": "Ramírez",
+  "telefono": "7857-2917",
+  "direccion": "San Salvador, Centro",
+  "cantidad_libros_leidos": 17,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0736"
+  },
+  "nombre": "Lucía",
+  "apellido": "Vargas",
+  "telefono": "7009-3036",
+  "direccion": "Cabañas, Centro",
+  "cantidad_libros_leidos": 13,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0737"
+  },
+  "nombre": "Raúl",
+  "apellido": "Herrera",
+  "telefono": "7056-5662",
+  "direccion": "San Miguel, Centro",
+  "cantidad_libros_leidos": 4,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0738"
+  },
+  "nombre": "Diego",
+  "apellido": "Méndez",
+  "telefono": "7184-4122",
+  "direccion": "Morazán, Centro",
+  "cantidad_libros_leidos": 6,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0739"
+  },
+  "nombre": "Laura",
+  "apellido": "Castillo",
+  "telefono": "7624-9871",
+  "direccion": "Sonsonate, Centro",
+  "cantidad_libros_leidos": 1,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d073a"
+  },
+  "nombre": "José",
+  "apellido": "Cruz",
+  "telefono": "7361-1935",
+  "direccion": "Sonsonate, Centro",
+  "cantidad_libros_leidos": 15,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d073b"
+  },
+  "nombre": "Fernando",
+  "apellido": "Herrera",
+  "telefono": "7819-2555",
+  "direccion": "Sonsonate, Centro",
+  "cantidad_libros_leidos": 5,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d073c"
+  },
+  "nombre": "Natalia",
+  "apellido": "Rivas",
+  "telefono": "7343-4586",
+  "direccion": "Cuscatlán, Centro",
+  "cantidad_libros_leidos": 7,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d073d"
+  },
+  "nombre": "Daniel",
+  "apellido": "Aguilar",
+  "telefono": "7180-8226",
+  "direccion": "La Unión, Centro",
+  "cantidad_libros_leidos": 16,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d073e"
+  },
+  "nombre": "Raúl",
+  "apellido": "Méndez",
+  "telefono": "7687-9465",
+  "direccion": "Usulután, Centro",
+  "cantidad_libros_leidos": 13,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d073f"
+  },
+  "nombre": "María",
+  "apellido": "Ramírez",
+  "telefono": "7404-6122",
+  "direccion": "Sonsonate, Centro",
+  "cantidad_libros_leidos": 18,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0740"
+  },
+  "nombre": "Ricardo",
+  "apellido": "Herrera",
+  "telefono": "7274-6266",
+  "direccion": "Cabañas, Centro",
+  "cantidad_libros_leidos": 11,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0741"
+  },
+  "nombre": "Víctor",
+  "apellido": "Gómez",
+  "telefono": "7200-1815",
+  "direccion": "Ahuachapán, Centro",
+  "cantidad_libros_leidos": 17,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0742"
+  },
+  "nombre": "Valeria",
+  "apellido": "Ortega",
+  "telefono": "7225-7988",
+  "direccion": "Cuscatlán, Centro",
+  "cantidad_libros_leidos": 10,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0743"
+  },
+  "nombre": "María",
+  "apellido": "Gómez",
+  "telefono": "7698-7898",
+  "direccion": "Cuscatlán, Centro",
+  "cantidad_libros_leidos": 11,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0744"
+  },
+  "nombre": "Paola",
+  "apellido": "López",
+  "telefono": "7531-3525",
+  "direccion": "San Vicente, Centro",
+  "cantidad_libros_leidos": 8,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0745"
+  },
+  "nombre": "Claudia",
+  "apellido": "Vargas",
+  "telefono": "7831-9408",
+  "direccion": "La Unión, Centro",
+  "cantidad_libros_leidos": 10,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0746"
+  },
+  "nombre": "Patricia",
+  "apellido": "Silva",
+  "telefono": "7366-6718",
+  "direccion": "San Miguel, Centro",
+  "cantidad_libros_leidos": 4,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0747"
+  },
+  "nombre": "Diego",
+  "apellido": "Ramírez",
+  "telefono": "7195-4285",
+  "direccion": "Sonsonate, Centro",
+  "cantidad_libros_leidos": 19,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0748"
+  },
+  "nombre": "Camila",
+  "apellido": "Castro",
+  "telefono": "7678-4032",
+  "direccion": "La Libertad, Puerto de La Libertad",
+  "cantidad_libros_leidos": 1,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0749"
+  },
+  "nombre": "Daniel",
+  "apellido": "Gómez",
+  "telefono": "7311-3356",
+  "direccion": "Morazán, Centro",
+  "cantidad_libros_leidos": 0,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d074a"
+  },
+  "nombre": "Mariana",
+  "apellido": "Reyes",
+  "telefono": "7311-6863",
+  "direccion": "San Vicente, Centro",
+  "cantidad_libros_leidos": 20,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d074b"
+  },
+  "nombre": "Héctor",
+  "apellido": "Navarro",
+  "telefono": "7171-9925",
+  "direccion": "Morazán, Centro",
+  "cantidad_libros_leidos": 7,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d074c"
+  },
+  "nombre": "Pedro",
+  "apellido": "Reyes",
+  "telefono": "7874-6682",
+  "direccion": "Sonsonate, Centro",
+  "cantidad_libros_leidos": 17,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d074d"
+  },
+  "nombre": "Fernando",
+  "apellido": "Hernández",
+  "telefono": "7381-2590",
+  "direccion": "Ahuachapán, Centro",
+  "cantidad_libros_leidos": 8,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d074e"
+  },
+  "nombre": "Héctor",
+  "apellido": "Rivas",
+  "telefono": "7605-9373",
+  "direccion": "Morazán, Centro",
+  "cantidad_libros_leidos": 20,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d074f"
+  },
+  "nombre": "Daniela",
+  "apellido": "Mejía",
+  "telefono": "7217-9284",
+  "direccion": "La Libertad, Puerto de La Libertad",
+  "cantidad_libros_leidos": 0,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0750"
+  },
+  "nombre": "Víctor",
+  "apellido": "Castro",
+  "telefono": "7240-2599",
+  "direccion": "San Miguel, Centro",
+  "cantidad_libros_leidos": 8,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0751"
+  },
+  "nombre": "Fernando",
+  "apellido": "Morales",
+  "telefono": "7711-3867",
+  "direccion": "Usulután, Centro",
+  "cantidad_libros_leidos": 8,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0752"
+  },
+  "nombre": "Paola",
+  "apellido": "Hernández",
+  "telefono": "7283-8103",
+  "direccion": "Usulután, Centro",
+  "cantidad_libros_leidos": 20,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0753"
+  },
+  "nombre": "Mariana",
+  "apellido": "López",
+  "telefono": "7157-3356",
+  "direccion": "San Miguel, Centro",
+  "cantidad_libros_leidos": 16,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0754"
+  },
+  "nombre": "Sofía",
+  "apellido": "Herrera",
+  "telefono": "7538-5436",
+  "direccion": "Usulután, Centro",
+  "cantidad_libros_leidos": 16,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0755"
+  },
+  "nombre": "Jorge",
+  "apellido": "Flores",
+  "telefono": "7138-6561",
+  "direccion": "Cuscatlán, Centro",
+  "cantidad_libros_leidos": 19,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0756"
+  },
+  "nombre": "Gabriela",
+  "apellido": "Silva",
+  "telefono": "7259-4182",
+  "direccion": "Ahuachapán, Centro",
+  "cantidad_libros_leidos": 13,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0757"
+  },
+  "nombre": "Andrea",
+  "apellido": "Delgado",
+  "telefono": "7116-4472",
+  "direccion": "Cuscatlán, Centro",
+  "cantidad_libros_leidos": 2,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0758"
+  },
+  "nombre": "Camila",
+  "apellido": "Campos",
+  "telefono": "7270-7458",
+  "direccion": "San Miguel, Centro",
+  "cantidad_libros_leidos": 18,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0759"
+  },
+  "nombre": "Mariana",
+  "apellido": "Herrera",
+  "telefono": "7209-5212",
+  "direccion": "La Libertad, Puerto de La Libertad",
+  "cantidad_libros_leidos": 15,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d075a"
+  },
+  "nombre": "Fernando",
+  "apellido": "Salazar",
+  "telefono": "7838-1087",
+  "direccion": "La Unión, Centro",
+  "cantidad_libros_leidos": 2,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d075b"
+  },
+  "nombre": "Luis",
+  "apellido": "Santos",
+  "telefono": "7537-3029",
+  "direccion": "Sonsonate, Centro",
+  "cantidad_libros_leidos": 12,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d075c"
+  },
+  "nombre": "Daniel",
+  "apellido": "Navarro",
+  "telefono": "7895-8990",
+  "direccion": "Cabañas, Centro",
+  "cantidad_libros_leidos": 8,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d075d"
+  },
+  "nombre": "Ana",
+  "apellido": "Aguilar",
+  "telefono": "7416-7164",
+  "direccion": "Ahuachapán, Centro",
+  "cantidad_libros_leidos": 5,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d075e"
+  },
+  "nombre": "Patricia",
+  "apellido": "Vega",
+  "telefono": "7175-4751",
+  "direccion": "Sonsonate, Centro",
+  "cantidad_libros_leidos": 19,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d075f"
+  },
+  "nombre": "Óscar",
+  "apellido": "Vargas",
+  "telefono": "7611-3088",
+  "direccion": "Cuscatlán, Centro",
+  "cantidad_libros_leidos": 11,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0760"
+  },
+  "nombre": "Laura",
+  "apellido": "Navarro",
+  "telefono": "7345-2192",
+  "direccion": "Cuscatlán, Centro",
+  "cantidad_libros_leidos": 17,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0761"
+  },
+  "nombre": "Andrea",
+  "apellido": "Gómez",
+  "telefono": "7802-6983",
+  "direccion": "San Miguel, Centro",
+  "cantidad_libros_leidos": 19,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0762"
+  },
+  "nombre": "Pedro",
+  "apellido": "Herrera",
+  "telefono": "7437-3696",
+  "direccion": "Cuscatlán, Centro",
+  "cantidad_libros_leidos": 16,
+  "estado_civil": "Divorciado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0763"
+  },
+  "nombre": "Diego",
+  "apellido": "Castro",
+  "telefono": "7239-4813",
+  "direccion": "San Miguel, Centro",
+  "cantidad_libros_leidos": 3,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0764"
+  },
+  "nombre": "Claudia",
+  "apellido": "Gómez",
+  "telefono": "7426-6649",
+  "direccion": "Cabañas, Centro",
+  "cantidad_libros_leidos": 7,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0765"
+  },
+  "nombre": "Víctor",
+  "apellido": "Rivas",
+  "telefono": "7930-9159",
+  "direccion": "La Libertad, Puerto de La Libertad",
+  "cantidad_libros_leidos": 10,
+  "estado_civil": "Casado"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0766"
+  },
+  "nombre": "Sofía",
+  "apellido": "Cruz",
+  "telefono": "7168-5073",
+  "direccion": "Cuscatlán, Centro",
+  "cantidad_libros_leidos": 12,
+  "estado_civil": "Soltero"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0767"
+  },
+  "nombre": "Gabriela",
+  "apellido": "Navarro",
+  "telefono": "7583-1247",
+  "direccion": "Santa Ana, Centro",
+  "cantidad_libros_leidos": 2,
+  "estado_civil": "Viudo"
+},
+{
+  "_id": {
+    "$oid": "69f9620c4840aaeb354d0768"
+  },
+  "nombre": "Eduardo",
+  "apellido": "Navarro",
+  "telefono": "7058-5473",
+  "direccion": "Cabañas, Centro",
+  "cantidad_libros_leidos": 11,
+  "estado_civil": "Casado"
+}]
